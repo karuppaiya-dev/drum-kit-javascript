@@ -1,5 +1,8 @@
 # 🥁 Drum Kit – Interactive Web App
 
+## 🚀 Live Demo
+[View Live Demo](https://karuppaiya-dev.github.io/drum-kit-javascript/)
+
 This is a fun and interactive **Drum Kit web application** built using **HTML, CSS, and JavaScript**.  
 Users can play drum sounds by **clicking buttons** or **pressing keyboard keys**.
 
