@@ -79,3 +79,29 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+/* Mobile devices */
+@media (max-width: 600px) {
+
+  h1 {
+    font-size: 2.5rem;
+    margin-top: 20px;
+  }
+
+  .set {
+    margin: 20% auto;
+  }
+
+  .drum {
+    width: 90px;
+    height: 90px;
+    font-size: 2.5rem;
+    margin: 8px;
+    border: 6px solid #404B69;
+  }
+
+  footer {
+    font-size: 0.8rem;
+    margin-top: 20px;
+  }
+}
